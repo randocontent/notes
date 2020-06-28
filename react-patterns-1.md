@@ -1,6 +1,6 @@
 ---
 title: React Patterns For Beginners
-layout: default
+nav_order: 110
 ---
 
 Key patterns to use when building apps with React. 
