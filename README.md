@@ -1,5 +1,3 @@
-- React Basics
-- React Patterns 1
-- Vim
-- Visual Studio Code
-- Zsh
+# Notes
+
+[Open Source Notes](https://randocontent.github.io/notes/)
