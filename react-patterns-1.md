@@ -37,7 +37,7 @@ A React Component is a function that takes a `props` object and returns a JSX ex
 
 A Component defined as a class must have a `render()` method, which must `return` something. The render function can also have code before the `return` statement.
 
-- [Classes - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+- [Classes - JavaScript \| MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 - [ES6 In Depth: Classes - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2015/07/es6-in-depth-classes/)
 - [ES6 In Depth: Subclassing - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2015/08/es6-in-depth-subclassing/)
 - [15. Classes](https://exploringjs.com/es6/ch_classes.html)
@@ -75,7 +75,7 @@ The index will be a unique value for each element in the array, so we can use it
 
 
 - [Lists and Keys – React](https://reactjs.org/docs/lists-and-keys.html)
-- [Array.prototype.map() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+- [Array.prototype.map() - JavaScript \| MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
 ## State with Hooks
  

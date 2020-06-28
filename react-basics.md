@@ -131,7 +131,7 @@ More:
 - [Conditional Rendering – React](https://reactjs.org/docs/conditional-rendering.html)
 - [Lists and Keys – React](https://reactjs.org/docs/lists-and-keys.html)
 - [How do you use the ? : (conditional) operator in JavaScript? - Stack Overflow](https://stackoverflow.com/questions/6259982/how-do-you-use-the-conditional-operator-in-javascript)
-- [How && and || Operators Really Work in JavaScript](https://dmitripavlutin.com/javascript-and-or-logical-operators/)
+- [How && and \|\| Operators Really Work in JavaScript](https://dmitripavlutin.com/javascript-and-or-logical-operators/)
 
 ### JSX Syntax
 
