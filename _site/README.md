@@ -1,0 +1,5 @@
+- React Basics
+- React Patterns 1
+- Vim
+- Visual Studio Code
+- Zsh
