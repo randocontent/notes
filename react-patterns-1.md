@@ -7,6 +7,7 @@ Key patterns to use when building apps with React.
 
 1. TOC 
 {:toc}
+---
 
 ## Starting
 

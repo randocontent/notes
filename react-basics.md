@@ -7,6 +7,7 @@ React requirements and basic concepts.
 
 1. TOC 
 {:toc}
+---
 
 ## JSX
 
