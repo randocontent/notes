@@ -1,0 +1,50 @@
+---
+title: CSS
+nav_order: 30
+---
+
+CSS
+
+1. TOC
+   {:toc}
+
+## Media queries
+
+- [Media Queries for Standard Devices \| CSS-Tricks](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+- [Using media queries - CSS: Cascading Style Sheets \| MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+
+```css
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2) { 
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) { 
+
+}
+```
+
+### Breakpoints
+
+- 320px — 480px: Mobile devices
+- 481px — 768px: iPads, Tablets
+- 769px — 1024px: Small screens, laptops
+- 1025px — 1200px: Desktops, large screens
+- 1201px and more —  Extra large screens, TV

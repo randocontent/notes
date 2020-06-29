@@ -7,7 +7,6 @@ tmux can split your terminal into multiple terminals, either locally or remotely
 
 1. TOC 
 {:toc}
----
 
 `tmux` is an alternative to `screen`
 

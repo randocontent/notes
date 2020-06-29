@@ -7,13 +7,12 @@ JavaScript, mostly in the browser.
 
 1. TOC 
 {:toc}
----
 
 ## Syntax
 
 ### Ternary operator
 
-[Learn ReactJS: Part I | Codecademy](https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-conditionals-ternary):
+[Learn ReactJS: Part I - Codecademy](https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-conditionals-ternary):
 
 Recall how it works: you write `x ? y : z`, where `x`, `y`, and `z` are all JavaScript expressions. When your code is executed, `x` is evaluated as either “truthy” or “falsy.” If `x` is truthy, then the entire ternary operator returns `y`. If `x` is falsy, then the entire ternary operator returns `z`. 
 
@@ -21,7 +20,7 @@ Recall how it works: you write `x ? y : z`, where `x`, `y`, and `z` are all Java
 
 ### Accessing object properties with square bracket notation
 
-[Working with objects - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+[Working with objects - JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 
 An object property name can be any valid JavaScript string, or anything that can be converted to a string, including the empty string. However, any property name that is not a valid JavaScript identifier (for example, a property name that has a space or a hyphen, or that starts with a number) can only be accessed using the square bracket notation. This notation is also very useful when property names are to be dynamically determined (when the property name is not determined until runtime). 
 
@@ -84,7 +83,7 @@ The file we're importing from has to first export something.
 
 [Gentle Explanation of "this" in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
 
-[Use this in a Component - Learn ReactJS: Part I | Codecademy](https://www.codecademy.com/courses/react-101/lessons/react-components-advanced-jsx/exercises/components-and-this)
+[Use this in a Component - Learn ReactJS: Part I - Codecademy](https://www.codecademy.com/courses/react-101/lessons/react-components-advanced-jsx/exercises/components-and-this)
 
 ### `.map()`
 
@@ -94,9 +93,9 @@ The function can be passed an item and it's index.
 
 This is useful in [React](https://www.notion.so/ranh/React-2d91d7cc23d54c93817b5cda36f9a19a#0bacddf9bf9f4e19bb71efe0f4d77aef)
 
-[Array.prototype.map() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+[Array.prototype.map() - JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
-[Learn ReactJS: Part I | Codecademy](https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-map)
+[Learn ReactJS: Part I - Codecademy](https://www.codecademy.com/courses/react-101/lessons/react-jsx-advanced/exercises/jsx-map)
 
 ### Creating new elements
 

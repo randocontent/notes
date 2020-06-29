@@ -8,7 +8,6 @@ After learning React for a few weeks, some key patterns to use for building apps
 
 1. TOC 
 {:toc}
----
 
 ## Starting
 
@@ -27,7 +26,7 @@ Building this way is generally referred to as "modern". "Modern web development"
 - [Creating a React App… From Scratch. - Noteworthy - The Journal Blog](https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658)
 - [Create a New React App – React](https://reactjs.org/docs/create-a-new-react-app.html)
 - [nitishdayal/cra_closer_look: An explanation of the problems that Create-React-App addresses, and how it attempts to solve them.](https://github.com/nitishdayal/cra_closer_look)
-- [Building a JavaScript Development Environment \| Pluralsight](https://www.pluralsight.com/courses/javascript-development-environment)
+- [Building a JavaScript Development Environment - Pluralsight](https://www.pluralsight.com/courses/javascript-development-environment)
 - [Build a JavaScript Dev Environment in One hour](https://www.infoq.com/presentations/javascript-dev-environment/)
 - [coryhouse/javascript-development-environment: JavaScript development environment discussed in "Building a JavaScript Development Environment" on Pluralsight](https://github.com/coryhouse/javascript-development-environment)
 
@@ -39,7 +38,7 @@ A React Component is a function that takes a `props` object and returns a JSX ex
 
 A Component defined as a class must have a `render()` method, which must `return` something. The render function can also have code before the `return` statement.
 
-- [Classes - JavaScript \| MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+- [Classes - JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 - [ES6 In Depth: Classes - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2015/07/es6-in-depth-classes/)
 - [ES6 In Depth: Subclassing - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2015/08/es6-in-depth-subclassing/)
 - [15. Classes](https://exploringjs.com/es6/ch_classes.html)
@@ -77,7 +76,7 @@ The index will be a unique value for each element in the array, so we can use it
 
 
 - [Lists and Keys – React](https://reactjs.org/docs/lists-and-keys.html)
-- [Array.prototype.map() - JavaScript \| MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+- [Array.prototype.map() - JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
 ## State with Hooks
  
