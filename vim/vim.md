@@ -1,6 +1,7 @@
 ---
 title: Vim
 nav_order: 50
+has_children: true
 ---
 
 Vim and vim-mode in other tools. Should probably be broken up into different pages.

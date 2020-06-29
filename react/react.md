@@ -1,6 +1,7 @@
 ---
-title: React basics
+title: React
 nav_order: 100
+has_children: true
 ---
 
 React requirements and basic concepts.
@@ -82,7 +83,7 @@ class Columns extends React.Component {
 
 [JSX In Depth – React](https://reactjs.org/docs/jsx-in-depth.html): 
 
-> if statements and for loops are not expressions in JavaScript, so they can’t be used in JSX directly. Instead, you can put these in the surrounding code.
+> `if` statements and `for` loops are not expressions in JavaScript, so they can’t be used in JSX directly. Instead, you can put these in the surrounding code.
 
 ```jsx
 function NumberDescriber(props) {

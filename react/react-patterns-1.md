@@ -1,9 +1,10 @@
 ---
-title: React Patterns For Beginners
+title: React Patterns
 nav_order: 110
+parent: React
 ---
 
-Key patterns to use when building apps with React. 
+After learning React for a few weeks, some key patterns to use for building apps. 
 
 1. TOC 
 {:toc}
