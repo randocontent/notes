@@ -8,10 +8,16 @@ CSS
 1. TOC
    {:toc}
 
+## CSS Grid
+
+`fr` is a relative unit that represents some fraction of the availabe space in the container. 
+
+- [Basic Concepts of grid layout - CSS: Cascading Style Sheets - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
+
 ## Media queries
 
-- [Media Queries for Standard Devices \| CSS-Tricks](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
-- [Using media queries - CSS: Cascading Style Sheets \| MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+- [Media Queries for Standard Devices - CSS-Tricks](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+- [Using media queries - CSS: Cascading Style Sheets - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 ```css
 /* Portrait and Landscape */

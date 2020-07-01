@@ -19,6 +19,15 @@ Vim and vim-mode in other tools. Should probably be broken up into different pag
     * Toggle, hide
     * Scrollback
 
+## Working with the terminal 
+
+When Zsh is also configured to use Vim mode, what commands get interpreted by which Vim?
+
+`:term` to open a terminal in a new window (will split the screen)
+`Ctrl-d` to close the window (will remove the split)
+`Ctrl-W N` for Normal mode (special "terminal-normal" mode, `:h Terminal-mode`)
+`Ctrl-W :` command mode (Ex command)
+
 # Key Concepts
 
 ## word vs WORD
