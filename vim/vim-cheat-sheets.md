@@ -25,4 +25,4 @@ This one has a nice twist though – it's broken down into seven lessons that he
 - Various motions, including `HML G K {} [] () -+ %`
 - Various commands, including `~ = Y sS J r D C <>`
 
-The author only offers SVGs and PNGs. See the bottom of the page for a list of links to alternate versions, including a single PDF with all pages. 
+Only SVGs and PNGs are available at the link. See the bottom of the page for a list of links to alternate versions, including a single PDF with all pages. 

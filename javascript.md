@@ -8,6 +8,56 @@ JavaScript, mostly in the browser.
 1. TOC 
 {:toc}
 
+## Terms
+
+- *Initialize*
+	- Assign a value to a variable when declaring it.
+- *String Literal*
+	- Zero or more characters enclosed in quotes.
+	- `var myVar = "Hello World!";`
+		- `myVar` is the string variable.
+		- `"Hello World!"` is the string literal.
+- *Escape*
+	- "Escape" a quote from being considered as end of string with backslash (`\`.)
+	- Alternatively, use different quote types.
+	- Common escape sequences:
+		- `\'` single quote
+		- `\"` double quote
+		- `\\` backslash
+		- `\n` newline
+		- `\r` carriage return
+		- `\t` tab
+		- `\b` backspace
+		- `\f` form feed (?)
+- *Bracket notation*
+	- A way to get characters at a specific place within a string.
+	- Zero-based indexing.
+	- `var name = "Charles";`
+	- `firstName[0]` equals "C."	
+- *Functions*
+	- Reusesable parts of code.
+	- *Paramaters*
+		- Variables that act as placeholders for function input.
+	- *Arguments*
+		- The actual values passed in the function call.
+- *Scope*
+	- The visibility of variables. 
+	- *Global*
+		- Variables defined outside of a function are global. They can be seen anywhere in the code.
+		- Ommiting the `var` automatically creates a global variable. Always declare variables with `var`.
+	- *Local*
+		- Variables defined inside a function, as well as the function paramaters.
+	- A local variable takes precedence over a global variable when two variables have the same name.
+- *Properties*
+	- Parts of an object.
+	- Access with dot operator `.` or bracket notation `[]` (like an array). The two can be chained together for complicated trees.
+	- Use dot `.` when you know the name of the property. 
+	- Bracket notation `[]` is required when the propert has a space in the name.
+	- Use bracket notation `[]` to access a property using the value of a variable. No quotes around the variable name, of course. 
+	- Properties can be added just as they are modified, by assigning something to them. 
+	- Delete properties using `delete`.
+		- `delete myObj.prop;`
+
 ## Syntax
 
 ### Ternary operator
