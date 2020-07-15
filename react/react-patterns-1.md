@@ -9,6 +9,7 @@ After learning React for a few weeks, some key patterns to use for building apps
 1. TOC 
 {:toc}
 
+
 ## Starting
 
 React by itself doesn't make a complete application, so we use it as part of a bigger system. We still call it a "React App" beacuse...(?) React does the UI which may be the core of the app. And many of the other tools mentioned can be more or less transparent. 

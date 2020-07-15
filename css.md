@@ -54,3 +54,19 @@ CSS
 - 769px — 1024px: Small screens, laptops
 - 1025px — 1200px: Desktops, large screens
 - 1201px and more —  Extra large screens, TV
+
+## Organization
+
+For example:
+
+`````` CSS
+/* || General styles */
+/* || Typography */
+/* || Utilities */
+/* || Site Wide */
+/* || Header and Main Navigation */
+/* || Other special cases */
+```
+
+- [Recipe: Media objects - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Media_objects)s
+- [Organizing your CSS - Learn web development - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing)

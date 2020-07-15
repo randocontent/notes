@@ -1,7 +1,7 @@
 title: "OS Notes"
-remote_theme: pmarsceill/just-the-docs
-color_scheme: blue 
-search_enabled: true  
-aux_links:
-  "Theme Docs":
-    - "//pmarsceill.github.io/just-the-docs/"
+theme: just-the-docs
+# color_scheme: blue 
+# search_enabled: true  
+# aux_links:
+#   "Theme Docs":
+#     - "//pmarsceill.github.io/just-the-docs/"
