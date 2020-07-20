@@ -2,12 +2,19 @@
 title: Visual Studio Code (VS Code)
 ---
 
-1. TOC 
-{:toc}
+1. TOC
+   {:toc}
 
 ## Keyboard Shortcuts
 
+### Navigation
 
+- `Ctrl Tab` to choose from open files.
+- `Ctrl+-` previous edit location.
+- `Ctrl+Shift+-` next edit location.
+
+- `Cmd+Shift+;` focus breadcrumbs.
+- `Cmd+Shift+.` focus breadcrumbs and open siblings.
 
 ## Extensions
 
@@ -17,11 +24,9 @@ title: Visual Studio Code (VS Code)
 
 - Base2Tone - Morning light
   - Some things could use more contrast, for example the status bar text, the terminal command line text
-- Base 16 - London Tube 
-	- Clean and sane code colors
-	- Red for Markdown lists (like this one). Not going to fly.
+- Base 16 - London Tube - Clean and sane code colors - Red for Markdown lists (like this one). Not going to fly.
 - Github Plus
-  - White-on-white for "&" in URLs. Looks like an error at first glance but it's also separating query paramters and making them easier to read. 
+  - White-on-white for "&" in URLs. Looks like an error at first glance but it's also separating query paramters and making them easier to read.
 
 ## Regular expressions
 
