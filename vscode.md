@@ -27,8 +27,29 @@ title: Visual Studio Code (VS Code)
 - Base 16 - London Tube - Clean and sane code colors - Red for Markdown lists (like this one). Not going to fly.
 - Github Plus
   - White-on-white for "&" in URLs. Looks like an error at first glance but it's also separating query paramters and making them easier to read.
+- Winter is Coming
+  - [johnpapa/vscode-winteriscoming: Dark theme with fun and bright foreground colors](https://github.com/johnpapa) 
+  - The light option is not bad, but needs some tweaking. Too much blue text.
+- Eva
+  - [fisheva/Eva-Theme: A colorful and semantic coloring code theme meet VSCode.](https://github.com/fisheva/Eva-Theme)
+  - too colorfull
+- Flat UI
+  - The "Immersive" options is nice because it looks less cluttered but the default colors aren't great.
+- Slack theme
+  - [slack-theme/visual-studio-code: Slack Theme for Visual Studio Code](https://github.com/slack-theme/visual-studio-code)
+  - The code editor colors are nice, the UI colors feel buggy. For example, in Ochin, disabled extensions in search results are black on dark blue.
+	- The darker colors for the sidebar and status bar make the editor area feel less cluttered
 
-## Regular expressions
+## Usage
+
+### Writing "prose"
+
+- Spell checking?
+- Narrow column?
+- Centered text?
+- More leading?
+
+### Regular expressions
 
 According to [this SO thread](https://stackoverflow.com/a/42184299), VS Code uses two different regex engines:
 
