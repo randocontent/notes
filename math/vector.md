@@ -60,7 +60,7 @@ In p5, `random2d()` creates a random two dimensional vector.
 
 Make a vector into a unit vector. A unit vector has a magnitude of 1.
 
-mag() returns the magnitude of a vector. A scalar length. It derives the value by using pythagoras. Effectively it takes the x and y values as two sides of a triangle and uses `c = sqrt(a^2 + b^2)` to determine the length of the third side, which is the magnitude.
+`mag()` returns the magnitude of a vector. A scalar length. It derives the value by using pythagoras. Effectively it takes the x and y values as two sides of a triangle and uses `c = sqrt(a^2 + b^2)` to determine the length of the third side, which is the magnitude.
 
 To normalize a vector, we can divide x and y by the magnitude.
 

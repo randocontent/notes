@@ -9,7 +9,13 @@ Vim and vim-mode in other tools. Should probably be broken up into different pag
 1. TOC 
 {:toc}
 
-# Workflows
+## Tips
+
+- `cit` Change Inside Tag. Can be used anywhere in the line and will find the nearest tag to change inside of.
+- Vim Surround: `dst` Delete Surrounding Tag.
+
+
+## Workflows
 
 * Run `vim index.html` to create a new HTML file from scratch. Have good defaults like shorter tabs etc.
 * Working with files in a project. Find files, create new.
@@ -19,7 +25,7 @@ Vim and vim-mode in other tools. Should probably be broken up into different pag
     * Toggle, hide
     * Scrollback
 
-## Working with the terminal 
+### Working with the terminal 
 
 When Zsh is also configured to use Vim mode, what commands get interpreted by which Vim?
 
@@ -28,14 +34,16 @@ When Zsh is also configured to use Vim mode, what commands get interpreted by wh
 `Ctrl-W N` for Normal mode (special "terminal-normal" mode, `:h Terminal-mode`)
 `Ctrl-W :` command mode (Ex command)
 
-# Key Concepts
+### Working with buffers and windows
 
-## word vs WORD
+## Key Concepts
+
+### word vs WORD
 
 > A word consists of a sequence of letters, digits and underscores, or a sequence of other non-blank characters, separated with white space (spaces, tabs, \<EOL>). This can be changed with the 'iskeyword' option. An empty line is also considered to be a word.
 > A WORD consists of a sequence of non-blank characters, separated with white space. An empty line is also considered to be a WORD.
 
-# Usage
+## Usage
 
 ```
 operator [number] motion
