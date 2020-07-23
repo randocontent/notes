@@ -7,6 +7,10 @@ title: Visual Studio Code (VS Code)
 
 ## Keyboard Shortcuts
 
+### Vim mode
+
+- `gr` for [vim-scripts/ReplaceWithRegister: Replace text with the contents of a register.](https://github.com/vim-scripts/ReplaceWithRegister)
+
 ### Navigation
 
 - `Ctrl Tab` to choose from open files.
@@ -28,7 +32,7 @@ title: Visual Studio Code (VS Code)
 - Github Plus
   - White-on-white for "&" in URLs. Looks like an error at first glance but it's also separating query paramters and making them easier to read.
 - Winter is Coming
-  - [johnpapa/vscode-winteriscoming: Dark theme with fun and bright foreground colors](https://github.com/johnpapa) 
+  - [johnpapa/vscode-winteriscoming: Dark theme with fun and bright foreground colors](https://github.com/johnpapa)
   - The light option is not bad, but needs some tweaking. Too much blue text.
 - Eva
   - [fisheva/Eva-Theme: A colorful and semantic coloring code theme meet VSCode.](https://github.com/fisheva/Eva-Theme)

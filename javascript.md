@@ -8,6 +8,10 @@ JavaScript, mostly in the browser.
 1. TOC 
 {:toc}
 
+## Useful Links
+
+- [Cheat sheet for moving from jQuery to vanilla JavaScript \| Tobias Ahlin](https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/)
+
 ## Terms
 
 - *Initialize*
