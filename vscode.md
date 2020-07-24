@@ -26,6 +26,12 @@ title: Visual Studio Code (VS Code)
 
 ## Appearance, color schemes
 
+What about using two different light colors schemes for day/night, just with different tones / contrasts?
+
+- Night Owl / Light Owl
+	- [Creating a VS Code Theme \| CSS-Tricks](https://css-tricks.com/creating-a-vs-code-theme/)
+	- Less clutter than most but some of the syntax colors (especially for Markdown) could be tweaked.
+		- Even full screen, the dark colros are hard to handle. 
 - Base2Tone - Morning light
   - Some things could use more contrast, for example the status bar text, the terminal command line text
 - Base 16 - London Tube - Clean and sane code colors - Red for Markdown lists (like this one). Not going to fly.
@@ -43,6 +49,8 @@ title: Visual Studio Code (VS Code)
   - [slack-theme/visual-studio-code: Slack Theme for Visual Studio Code](https://github.com/slack-theme/visual-studio-code)
   - The code editor colors are nice, the UI colors feel buggy. For example, in Ochin, disabled extensions in search results are black on dark blue.
 	- The darker colors for the sidebar and status bar make the editor area feel less cluttered
+- Tokyo Night
+	- The dark version is a good start
 
 ## Usage
 
