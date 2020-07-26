@@ -7,6 +7,16 @@ p5js.
 1. TOC
    {: toc}
 
+
+## Patterns
+
+
+A vector with random x,y | ```js
+createVector(random(width), random(height))
+```
+
+
+
 ## A physics engine in P5js
 
 A physics engine built on accelleration, following Nature of Code 2.0 video series:
