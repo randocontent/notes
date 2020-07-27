@@ -11,6 +11,7 @@ JavaScript, mostly in the browser.
 ## Useful Links
 
 - [Cheat sheet for moving from jQuery to vanilla JavaScript \| Tobias Ahlin](https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/)
+- [Online Interactive JavaScript (JS) Cheat Sheet](https://htmlcheatsheet.com/js/)
 
 ## Terms
 
