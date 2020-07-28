@@ -12,9 +12,8 @@ Bootstrap.
 ### Full Height / Full Screen / Dashboard
 
 ```html
-<div class="container d-flex container-fluid">
-	<div class="row flex-fill"></div>
-</div>
+		<div class="main container align-items-center h-100 container-fluid">
+			<div class="row flex-fill">
 ```
 
 - `.container-fluid` full width container, spanning the entire width of the viewport. [#](https://getbootstrap.com/docs/4.5/layout/overview/#fluid)

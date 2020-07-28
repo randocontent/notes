@@ -33,6 +33,12 @@ title: Visual Studio Code (VS Code)
 
 ## Appearance, color schemes
 
+What about using two different light colors schemes for day/night, just with different tones / contrasts?
+
+- Night Owl / Light Owl
+	- [Creating a VS Code Theme \| CSS-Tricks](https://css-tricks.com/creating-a-vs-code-theme/)
+	- Less clutter than most but some of the syntax colors (especially for Markdown) could be tweaked.
+		- Even full screen, the dark colros are hard to handle. 
 - GitHub Theme (Official)
   - [primer/github-vscode-theme: GitHub's VS Code theme](https://github.com/primer/github-vscode-theme)
   - Best overall so far...
@@ -55,6 +61,10 @@ title: Visual Studio Code (VS Code)
   - The "Immersive" options is nice because it looks less cluttered but the default colors aren't great.
 - Slack theme
   - [slack-theme/visual-studio-code: Slack Theme for Visual Studio Code](https://github.com/slack-theme/visual-studio-code)
+  - The code editor colors are nice, the UI colors feel buggy. For example, in Ochin, disabled extensions in search results are black on dark blue.
+	- The darker colors for the sidebar and status bar make the editor area feel less cluttered
+- Tokyo Night
+	- The dark version is a good start
   - The code editor colors are nice, the UI colors feel buggy. For example, in Ochin, disabled extensions in search results are black on dark blue. - The darker colors for the sidebar and status bar make the editor area feel less cluttered
 - Brackets
   - Could tone down the orange. Otherwise pretty good.
