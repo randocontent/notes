@@ -13,6 +13,10 @@ Vim and vim-mode in other tools. Should probably be broken up into different pag
 
 - `cit` Change Inside Tag. Can be used anywhere in the line and will find the nearest tag to change inside of.
 - Vim Surround: `dst` Delete Surrounding Tag.
+- Replace with Register [#](https://github.com/vim-scripts/ReplaceWithRegister)
+	- `gr` replace with unnamed register 
+	- `grr` replace line with unnamed register
+	- `"xgr` replace with register `x`
 
 
 ## Workflows
